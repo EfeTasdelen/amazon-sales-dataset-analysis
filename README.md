@@ -24,7 +24,7 @@ The OSEMN framework ensures a structured, reproducible data analysis process:
 
 ## Notebook
 You can view the full Kaggle notebook here:  
-👉 [Amazon Sales Dataset Analysis on Kaggle](https://www.kaggle.com/code/efetasdelen/amazon-sales-dataset-analysis)
+[Amazon Sales Dataset Analysis on Kaggle](https://www.kaggle.com/code/efetasdelen/amazon-sales-dataset-analysis)
 
 ---
 
